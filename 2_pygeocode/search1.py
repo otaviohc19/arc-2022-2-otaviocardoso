@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# 2.0
+
 from geopy.geocoders import Nominatim
 
 
